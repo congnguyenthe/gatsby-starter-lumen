@@ -49,7 +49,7 @@ Use the Gatsby CLI to create a new site, specifying the Lumen starter.
 
 ```sh
 # Create a new Gatsby site using the Lumen starter
-gatsby new blog https://github.com/alxshelepenok/gatsby-starter-lumen
+gatsby new blog https://github.com/congnguyenthe/gatsby-starter-lumen
 ```
 
 #### Start Developing
